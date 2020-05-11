@@ -1,0 +1,58 @@
+body{
+	background-image: url(bar.jpg);
+	background-color: #cccccc;
+  	height: 100;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+  	opacity: 0.9;
+}
+.mv-auto{
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+}
+
+form .btn{
+	font-size: 80%;
+	border-radius: 5rem;
+	letter-spacing: 0.2rem;
+	font-weight: bold;
+	padding: 1rem;
+}
+
+.form-group input{
+	height: auto;
+	border-radius: 2rem;
+}
+
+.btn-facebook{
+	color: white;
+	background: #3b5998
+}
+.btn-facebook:hover{
+	color: white;
+}
+
+.btn-google:hover{
+	color: white;
+}
+
+.btn-google{
+	color: white;
+	background: #ea4335
+}
+
+
+
+/*#main-text{
+				text-align: center;
+				font-size: 22px;
+				font-family: Arial;
+			}
+
+			.text-comum{
+				font-size: 14px;
+				color: #e01919;
+			}*
